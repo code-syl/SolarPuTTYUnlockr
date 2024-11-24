@@ -21,5 +21,6 @@ Options:
 Solar PuTTY's portable executable can be unzipped. In the resulting folder, `SolarWinds-FT-Solar-PuTTY/Solar-PuTTY/$_2_`, an executable named `Solar_PuTTY.exe` can be found. A compiler C# .NET decompiler from Jetbrains (https://www.jetbrains.com/decompiler/) was used to look at the source code of that executable. It was not obfuscated, and I was able to reuse the decryption code that was present. 
 
 Many thanks to Voidsec and Wind010 for inspiring me to have a crack at it myself!
-https://github.com/VoidSec/SolarPuttyDecrypt
-https://github.com/Wind010/SolarPuttyDecryptor
+
+- https://github.com/VoidSec/SolarPuttyDecrypt
+- https://github.com/Wind010/SolarPuttyDecryptor
